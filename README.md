@@ -84,40 +84,40 @@ Power BI dashboards were designed to represent Uber ride data insights effective
 * Insight: Shows ride booking trends over days, weeks, and months.
 
 2. Booking Status Breakdown
-Visualization: Pie chart
-Insight: Displays the percentage of successful, canceled, and incomplete bookings.
+* Visualization: Pie chart
+* Insight: Displays the percentage of successful, canceled, and incomplete bookings.
 
 3. Top 5 Vehicle Types by Ride Distance
-Visualization: Bar chart
-Insight: Highlights which vehicle types cover the most distance.
+* Visualization: Bar chart
+* Insight: Highlights which vehicle types cover the most distance.
 
 4. Average Customer Ratings by Vehicle Type
-Visualization: Column chart
-Insight: Determines which vehicle types offer the best customer experience.
+* Visualization: Column chart
+* Insight: Determines which vehicle types offer the best customer experience.
 
 5. Canceled Ride Reasons
-Visualization: Donut chart
-Insight: Helps understand key reasons for ride cancellations.
+* Visualization: Donut chart
+* Insight: Helps understand key reasons for ride cancellations.
 
 6. Revenue by Payment Method
-Visualization: Bar chart
-Insight: Shows the most commonly used payment methods for successful rides.
+* Visualization: Bar chart
+* Insight: Shows the most commonly used payment methods for successful rides.
 
 7. Top 5 Customers by Total Booking Value
-Visualization: Table chart
-Insight: Identifies the most valuable customers based on ride spending.
+* Visualization: Table chart
+* Insight: Identifies the most valuable customers based on ride spending.
 
 8. Ride Distance Distribution Per Day
-Visualization: Histogram
-Insight: Shows how ride distances vary throughout the day.
+* Visualization: Histogram
+* Insight: Shows how ride distances vary throughout the day.
 
 9. Driver Ratings Distribution
-Visualization: Box plot
-Insight: Provides insights into driver performance variations.
+* Visualization: Box plot
+* Insight: Provides insights into driver performance variations.
 
 10. Customer vs. Driver Ratings
-Visualization: Scatter plot
-Insight: Analyzes correlations between customer ratings and driver ratings.
+* Visualization: Scatter plot
+* Insight: Analyzes correlations between customer ratings and driver ratings.
 
 # Data Analysis Using Power BI:
 ![Uber_Dashboard_1](https://github.com/user-attachments/assets/55ba7869-c737-498d-8dad-4fb80af943ae)
