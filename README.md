@@ -15,7 +15,7 @@ This project focuses on analyzing Uber ride data using SQL and Power BI to gain 
 2. Mircosoft Power BI Desktop
 3. Microsoft Excel 
 
-# SQL Questions (KPI's):
+# SQL Questions:
 1. Retrieve all successful bookings.
 2. Find the average ride distance for each vehicle type.
 3. Get the total number of cancelled rides by customers.
@@ -69,7 +69,7 @@ This project focuses on analyzing Uber ride data using SQL and Power BI to gain 
 ![Uber_SQL_10](https://github.com/user-attachments/assets/e7a5c48b-3210-4d25-85f9-0da30ec0aafd)
 
 
-# Power BI Questions (KPI's):
+# Power BI Questions:
 1. Ride Volume Over Time
 2. Booking Status Breakdown
 3. Top 5 Vehicle Types by Ride Distance
