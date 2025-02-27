@@ -130,3 +130,20 @@ Power BI dashboards were designed to represent Uber ride data insights effective
 
 ![Uber_Dashboard_5](https://github.com/user-attachments/assets/a4d9a273-714b-4dd7-ae51-11c2e3b08b61)
 
+# Key Findings & Insights
+
+1. Booking Trends: A significant number of successful rides indicate a stable booking system.
+
+2. Cancellations: Customer-initiated cancellations were the highest, followed by driver-related issues.
+
+3. Vehicle Performance: Prime Sedan had the best driver ratings, while economy rides had higher cancellations.
+
+4. Payment Preferences: UPI was one of the most commonly used payment methods.
+
+5. Customer Satisfaction: Ratings varied significantly based on vehicle type and driver performance.
+
+6. Revenue Analysis: Total booking value from successful rides indicated key revenue streams.
+
+
+
+
