@@ -80,8 +80,8 @@ This project focuses on analyzing Uber ride data using SQL and Power BI to gain 
 Power BI dashboards were designed to represent Uber ride data insights effectively.
 
 1. Ride Volume Over Time
-Visualization: Line chart
-Insight: Shows ride booking trends over days, weeks, and months.
+* Visualization: Line chart
+* Insight: Shows ride booking trends over days, weeks, and months.
 
 2. Booking Status Breakdown
 Visualization: Pie chart
