@@ -25,4 +25,7 @@ This project focuses on analyzing Uber ride data using SQL and Power BI to gain 
 # Data Analysis Using MySQL
 1. Retrieve All Successful Bookings
 
+![Uber_SQL_1](https://github.com/user-attachments/assets/6d83eb96-7d27-4bed-a76b-67c82d5c93c9)
+
+
 
