@@ -10,6 +10,11 @@ This project focuses on analyzing Uber ride data using SQL and Power BI to gain 
 3. Identify patterns in ride cancellations, driver performance, and payment preferences.
 4. Provide actionable insights to improve ride efficiency and customer satisfaction.
 
+# Tools
+1. MySQL Workbench 8.0 CE
+2. Mircosoft Power BI Desktop
+3. Microsoft Excel 
+
 # SQL Questions (KPI's):
 1. Retrieve all successful bookings.
 2. Find the average ride distance for each vehicle type.
