@@ -145,5 +145,6 @@ Power BI dashboards were designed to represent Uber ride data insights effective
 6. Revenue Analysis: Total booking value from successful rides indicated key revenue streams.
 
 
-
+# Conclusion
+The Uber rides data analysis provided critical insights into customer behavior, ride performance, and revenue generation. The combination of SQL queries and Power BI dashboards enabled a comprehensive data-driven approach to understanding the ride service business.
 
